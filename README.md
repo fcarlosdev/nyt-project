@@ -6,5 +6,5 @@ where are made a copy of [this article from the New York Times]( http://www.nyti
 
 More information can be get at [The Odin Project](https://www.theodinproject.com/lessons/positioning-and-floating-elements).
 
-View the final page at [Here]()
+View the final page at [Here](https://fcarlosdev.github.io/nyt-project/)
 
